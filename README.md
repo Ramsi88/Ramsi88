@@ -22,7 +22,7 @@
 Interest:
 Arts, Music, Philosophy, Psychology, Technology, Hardware & Software, Audio & Video, Communication
 
-[Ramsi](https://www.ramsi.it)
+[Ramsi](https://ramsi.it)
 
 [Ramsi88/Ramsi88](https://github.com/Ramsi88/Ramsi88.git)
 

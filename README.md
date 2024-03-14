@@ -1,4 +1,3 @@
-![alt text](https://ramsi.it/rmslogo.png)
 
 ```
 {
@@ -9,7 +8,7 @@
 
 - `IT, Computer Engineering` { Apple Certified Technician Mac and iOS, Kali/Ubuntu Linux OS, Microsoft Windows }
 
-- `Coding Languages` { Bash, C++, C#, Java, JavaScript, Python, Php, Rust, Solidity, Swift }
+- `Coding Languages` { Bash, C++, C#, Java, JavaScript/Typescript, Kotlin, Python, Php, Rust, Solidity, Swift }
 
 - `Frameworks` { Node, React, Next, JavaCard, Xcode }
 
@@ -25,6 +24,8 @@ Arts, Music, Philosophy, Psychology, Technology, Hardware & Software, Audio & Vi
 [Ramsi](https://ramsi.it)
 
 [Ramsi88/Ramsi88](https://github.com/Ramsi88/Ramsi88.git)
+
+![alt text](https://ramsi.it/rmslogo.png)
 
 <!---
 Ramsi88/Ramsi88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

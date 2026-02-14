@@ -8,11 +8,11 @@
 
 Ramzi Bougammoura alias/aka Ramsi.
 
-The world, technology, arts and communication has always fascinated me so I cultivated a passion to connect these realities.
+The world, technology, arts and communication has always fascinated me so I cultivated a passion in connecting these realities.
 
 In my past I worked several years as a certified hardware and software technician for Apple and as a teacher of audio engineering and sound design.
 
-I work as a Software Engineer using differents hardware and software technologies to craft things and concepts and in the last years I focused my work within the blockchain sector, DLT and FinTech, developing a passion for cryptography and contributing to the development and integration of blockchain systems, multi-signature based custody protocols using HSMs, primarily on the Bitcoin protocol and the Ethereum ecosystem.
+I work as a Software Engineer using differents hardware and software technologies to craft things and projects and in the last years I focused my work within the blockchain sector, DLT and FinTech, developing a passion for cryptography and contributing to the development and integration of blockchain systems, multi-signature based custody protocols using HSMs devices, integrating RWA protocols cross-chain for insitutional funds and investors, and developing smart contracts for DeFi ecosystem primarily focusing on the Bitcoin protocol and the Ethereum ecosystem.
 
 ## Projects & Portfolio
 
